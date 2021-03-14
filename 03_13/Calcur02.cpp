@@ -4,7 +4,7 @@ typedef enum {
 	lparen,
 	rparen,
 	plus, // ´õÇÏ±â
-	minus, //»©±â
+	minus, //»©±âfewd
 	divide, // ³ª´©±â
 	times, // °öÇÏ±â
 	eos, 
